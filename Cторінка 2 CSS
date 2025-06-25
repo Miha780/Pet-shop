@@ -1,0 +1,55 @@
+body {
+    font-family: sans-serif;
+   
+}
+
+header {
+    background-color: #F99100;
+    
+}
+
+.button {
+    
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    font-size: 24px;
+    background-color: #F99100;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: black;
+}
+
+h1 {
+color: black;
+}
+
+p {
+    font-size: 20px;
+}
+
+.info {
+   background-color:#FF7919 ;
+
+}
+
+
+
+footer {
+  color: black;
+   background-color: #FF7919;
+   padding-top: 70px;
+   text-align: center;
+}
+
+footer a {
+    
+}
+
+footer p {
+}
