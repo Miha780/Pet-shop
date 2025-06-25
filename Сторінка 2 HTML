@@ -1,0 +1,40 @@
+<html>
+    <head>
+       
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <header>
+            
+            
+        </header>
+        <nav>
+            <a class="nav-link" href="">Головна</a>
+            <a class="nav-link" href="">Інша сторінка</a>
+            <a class="nav-link" href="">Посиланя</a>
+            
+        </nav>
+        <main>
+            <h1 style=" text-align: center">Зоомагазин
+          
+            <img src="https://learn.logikaschool.com/uploads/student/5310242/6852f5657dd44.jpg" widht="300px" height="300px" /> </h1>
+            <section class="info" >
+    <ul>
+        <li>
+         По-перше, ми круті
+        </li>
+        <li>
+        По-друге, читай пункт перший
+        </li>
+        <li>
+        По-третє, натискай кнопку внизу, щоб замовити
+        </li>
+    </ul>
+            </section>
+        </main>
+        <footer>
+           
+           <p>Logika 2025</p>
+        </footer>
+    </body>
+</html>
