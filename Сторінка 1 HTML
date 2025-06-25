@@ -1,0 +1,52 @@
+<html>
+    <head>
+       
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <header>
+            
+            
+        </header>
+        <nav>
+            <a class="nav-link" href="">Головна</a>
+            <a class="nav-link" href="">Інша сторінка</a>
+            <a class="nav-link" href="">Посиланя</a>
+            
+        </nav>
+        <main>
+            <h1 style=" text-align: center">Зоомагазин</h1>
+            <section class="info">
+                <article>
+                    <h2 style=" text-align: center">Kорм</h2>
+                    <img src="https://learn.logikaschool.com/uploads/student/5310242/6852f0a12ec23.jpg" width="350px" height="400px"/>
+                    <p style=" text-align: center">ROYAL CANIN</p>
+                    <a class="article-but" href="">Замовити</a>
+                </article>
+                <article>
+                    <h2 style=" text-align: center">Ошийник</h2>
+                    <img src="https://learn.logikaschool.com/uploads/student/5310242/6852f13dae2a8.jpg" width="330px" height="300px"/>
+                    <p style=" text-align: center">для собак</p>
+                    <a class="article-but" href="">Замовити</a>
+                </article>
+                <article>
+                    <h2 style=" text-align: center">Намордник</h2>
+                    <img src="https://learn.logikaschool.com/uploads/student/5310242/6852f1477ea09.jpg" width="300px" height="300px"/>
+                    <p style=" text-align: center">ще товар</p>
+                    <a class="article-but" href="">Замовити</a>
+                </article>
+                <article>
+                    <h2 style=" text-align: center">Одяг</h2>
+                    <img src="https://learn.logikaschool.com/uploads/student/5310242/6852f14316aa8.jpg" width="400px" height="350px"/>
+                    <p style=" text-align: center">зимній</p>
+                    <a class="article-but" href="">Замовити</a>
+                </article>
+            </section>
+           
+        </main>
+        <footer>
+           
+           <p>Logika 2025</p>
+        </footer>
+    </body>
+</html>
